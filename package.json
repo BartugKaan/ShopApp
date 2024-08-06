@@ -1,0 +1,12 @@
+{
+  "name": "shopapp_fullstack",
+  "version": "1.0.0",
+  "description": "eCommerce applciation built with MERN Stack",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Baruğ Kaan Çelebi",
+  "license": "MIT"
+}
